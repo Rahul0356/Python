@@ -107,6 +107,4 @@ Python 3.x, Flask, SQLite, Pandas, Matplotlib, BeautifulSoup, Requests, Asyncio,
 ---
 
 
----
 
-**Ready to start your Python journey? 🚀**
