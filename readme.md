@@ -96,13 +96,6 @@ Python 3.x, Flask, SQLite, Pandas, Matplotlib, BeautifulSoup, Requests, Asyncio,
 
 ---
 
-## 🎯 Target Audience
-
-* Beginners
-* Students
-* Professionals
-* Career Changers
-* Hobbyists
 
 ---
 
@@ -114,6 +107,4 @@ Python 3.x, Flask, SQLite, Pandas, Matplotlib, BeautifulSoup, Requests, Asyncio,
 ---
 
 
----
 
-**Ready to start your Python journey? 🚀**
