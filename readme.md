@@ -1,110 +1,63 @@
-# 🤖 Complete AI & LLM Engineering Bootcamp
-
-**Created by: Rahul Kumar**
+# 🐍 Complete Python Programming Course
 
 **Master Python from Basics to Advanced with Real-World Projects**
 
-> **Course Link**: hitesh.ai
-> **Instructor**: Hitesh Choudhary
+📌 *Student Learning Repository*  
+🎓 *Python Programming Journey*
+
+> **Course Link**: https://hitesh.ai  
+> **Instructor**: Hitesh Choudhary  
 
 ---
 
-## 📚 Description
+## 📚 Overview
 
-Welcome to my learning journey through the Complete AI & LLM Engineering Bootcamp — a course where I, as a student, am learning Python, Git, Docker, Pydantic, LLMs, Agents, RAG, LangChain, LangGraph, and Multi-Modal AI from the ground up.
-
-This is not just another theory course. As a student, I am learning how to code, deploy, and scale real-world AI applications using the same techniques that power ChatGPT, Gemini, and Claude.
-
----
-
-## 🎯 What You'll Learn
-
-### **Core Python Fundamentals**
-
-* Data Types & Variables
-* Control Flow
-* Functions
-* Object-Oriented Programming
-* Error Handling
-
-### **Advanced Python Concepts**
-
-* Comprehensions
-* Generators
-* Decorators
-* Concurrency (Threads, Multiprocessing, Async)
-* File Handling
-
-### **Real-World Applications**
-
-* Web Development (Flask)
-* Data Science & Visualization
-* Web Scraping
-* Automation
-* API Development
+This repository documents my learning journey through a **comprehensive Python programming course**, covering everything from **basic syntax** to **advanced concepts and real-world projects**.  
+The goal of this repository is to practice Python concepts, build hands-on projects, and showcase my progress as a student developer.
 
 ---
 
+## 🎯 What I Learned
+
+### 🧱 Core Python Fundamentals
+- Data Types & Variables (int, float, string, list, tuple, dict, set)
+- Conditional Statements & Loops
+- Functions & Scope
+- Object-Oriented Programming (OOP)
+- Exception Handling
+
+### 🚀 Advanced Python Concepts
+- List, Set & Dictionary Comprehensions
+- Generators & Iterators
+- Decorators
+- File Handling
+- Concurrency (Threading & Multiprocessing)
+- Asynchronous Programming (`asyncio`)
+
+### 🌍 Real-World Applications
+- Web Development with Flask
+- Web Scraping using BeautifulSoup
+- Automation Scripts
+- API Development & Consumption
+- Data Analysis & Visualization
 
 ---
 
-## 🚀 Hands-On Projects
+## 📁 Repository Structure
 
-* Utility Applications
-* Data Handling
-* Web Scraping
-* Automation Tools
-* Data Science Dashboards
-* Flask URL Shortener App
-
----
-
-## 🛠️ Technologies & Tools
-
-Python 3.x, Flask, SQLite, Pandas, Matplotlib, BeautifulSoup, Requests, Asyncio, Threading
-
----
-
-## 🎓 Learning Outcomes
-
-* Write clean Python code
-* Build real web apps
-* Scrape and analyze web data
-* Work with databases & APIs
-* Implement async & concurrent programs
-* Use OOP and advanced Python features
-
----
-
-## 🏆 Course Highlights
-
-* 200+ Practical Examples
-* 6 Complete Projects
-* Beginner to Advanced
-* Industry Best Practices
-* Daily Challenges & Real-World Applications
-
----
-
-## 📖 How to Use This Repository
-
-1. Clone or download this repository
-2. Follow the folder structure in numerical order
-3. Complete exercises in each chapter
-4. Build projects in the challenges section
-5. Practice regularly
-
----
-
-
----
-
-## 📞 Support & Community
-
-* Course Platform: hitesh.ai
-* Instructor: Hitesh Choudhary
-
----
-
-
-
+```text
+00_python/
+01_virtual/
+02_datatypes/
+03_conditionals/
+04_loops/
+05_functions/
+06_chai_business/
+07_comprehensions/
+08_generators/
+09_decorators/
+10_oop/
+11_exceptions/
+12_threads_concurrency/
+13_async_python/
+challenges/
